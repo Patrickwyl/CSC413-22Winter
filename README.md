@@ -10,6 +10,6 @@ HW2: 9.8/10 \
 PA2: 10/10 \
 HW3: 9.5/10 \
 PA3: 8.5/10 \
-PA4: 12.05/13 \
+PA4: 12.05/13
 ## Important
 As per University of Toronto's policy on Turnitin.com, all my assignment/lab/project files were (automatically) submitted to Turnitin plagiarism detection software. My assignment/lab/project submissions has been included as source documents in the Turnitin.com reference database. My assignment/lab/project works here are not intended to be reused for any academic purposes.
